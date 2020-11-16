@@ -87,7 +87,7 @@ footer{
 	padding-top:20px;
 }
 
-@media(max-width:960px && min-width:500px){
+@media(max-width:960px && min-width:850px){
 	.container{
 		width:95%;
 	}
@@ -99,6 +99,18 @@ footer{
 	
 	.gallery img{
 		width:49%;
+	}
+}
+@media(max-width:849px){
+	.container{
+		width:90%;
+	}
+	section, aside{
+		float:none;
+		width:100%;
+	}
+	.gallery img{
+		width:48%;
 	}
 }
 @media(min-width:961px){
