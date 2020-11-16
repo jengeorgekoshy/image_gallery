@@ -87,7 +87,7 @@ footer{
 	padding-top:20px;
 }
 
-@media(max-width:960px){
+@media(max-width:960px && min-width:500px){
 	.container{
 		width:95%;
 	}
