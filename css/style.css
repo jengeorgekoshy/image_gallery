@@ -112,6 +112,9 @@ footer{
 	.gallery img{
 		width:48%;
 	}
+	.logo{
+		width:100%;
+	}
 }
 @media(min-width:961px){
 	footer{
